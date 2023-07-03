@@ -1,7 +1,7 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&text=Semi_Kwon%20GitHub%20🌱&animation=twinkling&fontSize=35&fontAlignY=50&fontAlign=76&height=250)
 
 
-## **🔥Interests🔥**
+## **🌱Interests🔥\**
 <h3><div align=center>🔥INTERESTS🔥</div></h3>
 <div align=center>
   <img src="https://img.shields.io/badge/AI-#FF0000?style=for-the-badge&logo=Agora&logoColor=white">
