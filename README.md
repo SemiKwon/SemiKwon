@@ -3,11 +3,9 @@
 
 ## 🌱*Interests*
 <h3><div align=center>🔥INTERESTS🔥</div></h3>
-<div align=center>
-  <img src="https://img.shields.io/badge/AI-#FF0000?style=for-the-badge&logo=Agora&logoColor=white">
-</div>
 
-# Most Used Languages
+
+## 💬*Most Used Languages*
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SemiKwon&layout=compact)](https://github.com/delay-100/github-readme-stats)
 
 <!--
