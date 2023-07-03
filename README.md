@@ -1,4 +1,5 @@
-###Welcome 😄
+<!-- info -->
+### :wave: Welcome!
 
 <!-- Language logo-->
 
