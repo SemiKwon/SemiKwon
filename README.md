@@ -5,6 +5,8 @@
 ![Static Badge](https://img.shields.io/badge/AI-%23FF0000)
 ![Static Badge](https://img.shields.io/badge/Deep_Learning-%23FFA500)
 
+![Static Badge](https://img.shields.io/badge/NLP-%23FFD700)
+
 
 ## 💬 *Skills*
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SemiKwon&layout=compact)](https://github.com/delay-100/github-readme-stats)
