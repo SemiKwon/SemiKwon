@@ -1,9 +1,9 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&text=Semi_Kwon%20GitHub%20🌱&animation=twinkling&fontSize=35&fontAlignY=50&fontAlign=76&height=250)
 
 
-<h1><div align=center>🔥INTERESTS🔥</div></h1>
+<h2><div align=center>🔥INTERESTS🔥</div></h2>
 <div align=center>
-안녕하세요! 인공지능 분야에 관심이 많은 권세미입니다.
+  - AI, Deep Learning
 </div>
 
 # Most Used Languages
