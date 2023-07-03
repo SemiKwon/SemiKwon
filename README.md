@@ -1,7 +1,10 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&text=Semi_Kwon%20GitHub%20🌱&animation=twinkling&fontSize=35&fontAlignY=50&fontAlign=76&height=250)
 
-# INTRODUCTION
-- 안녕하세요! 인공지능 분야에 관심이 많은 권세미입니다.
+<div align=center>
+### INTRODUCTION
+안녕하세요! 인공지능 분야에 관심이 많은 권세미입니다.
+</div>
+
 # Most Used Languages
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SemiKwon&layout=compact)](https://github.com/delay-100/github-readme-stats)
 
