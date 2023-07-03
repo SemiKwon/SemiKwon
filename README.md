@@ -13,6 +13,8 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SemiKwon&layout=compact)](https://github.com/delay-100/github-readme-stats)
 
 ## 📫 *Projects*
+- 2021 오픈소스 코디네이터 과정 교육 이수 (WISET&KOSSA)
+- 2021 성신여자대학교 소프트웨어 경진대회 입상
 
 <!--
 **SemiKwon/SemiKwon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
