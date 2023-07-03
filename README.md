@@ -2,7 +2,7 @@
 
 
 ## 🌱 *Interests*
-[https://img.shields.io/badge/AI-%23FF0000](https://img.shields.io/badge/just%2520the%2520message-8A2BE2)
+![Static Badge](https://img.shields.io/badge/AI-%23FF0000)
 
 
 ## 💬 *Skills*
