@@ -1,5 +1,5 @@
 <!-- info -->
-##### :wave: Welcome!
+# :wave: Welcome!
 
 <!-- Language logo-->
 <div align="center">
