@@ -18,6 +18,7 @@
 - 2022 R을 통한 텍스트 데이터 분석 - 의미망 네트워크 구축
 - 2021 성신여자대학교 소프트웨어 경진대회 입상 - 추천 시스템 앱 개발
 - 2021 오픈소스 코디네이터 과정 교육 이수 (WISET&KOSSA)
+
 <!--
 **SemiKwon/SemiKwon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
