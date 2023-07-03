@@ -6,6 +6,8 @@
 ![Static Badge](https://img.shields.io/badge/Deep_Learning-%23FFA500)
 
 ![Static Badge](https://img.shields.io/badge/NLP-%23006400)
+![Static Badge](https://img.shields.io/badge/Computer_Vison-%230000FF)
+
 
 
 ## 💬 *Skills*
