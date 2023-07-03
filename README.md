@@ -12,8 +12,6 @@
 ## 💬 *Skills*
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SemiKwon&layout=compact)](https://github.com/delay-100/github-readme-stats)
 
-## 🔭 *Level*
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=ceo0915)](https://solved.ac/ceo0915/)
 
 <!--
 **SemiKwon/SemiKwon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
