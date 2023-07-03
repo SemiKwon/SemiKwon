@@ -2,7 +2,7 @@
 
 
 ## 🌱 *Interests*
-
+<img src="https://img.shields.io/badge/AI-#FF0000?style=for-the-badge&logo=Python&logoColor=white">
 
 
 ## 💬 *Skills*
