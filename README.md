@@ -13,9 +13,11 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SemiKwon&layout=compact)](https://github.com/delay-100/github-readme-stats)
 
 ## 📫 *Projects*
+- 2023 ALAK 국제 학술 대회, 주제 : Cognitive Pragmatic Inference of Irony - KoBERT 분류
+- 2022 갈등 맥락 인지 TextCNN 모델 개발
+- 2022 R을 통한 텍스트 데이터 분석 - 의미망 네트워크 구축
+- 2021 성신여자대학교 소프트웨어 경진대회 입상 - 학우들을 위한 추천 시스템 앱 개발
 - 2021 오픈소스 코디네이터 과정 교육 이수 (WISET&KOSSA)
-- 2021 성신여자대학교 소프트웨어 경진대회 입상
-
 <!--
 **SemiKwon/SemiKwon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
