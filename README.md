@@ -1,11 +1,11 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&text=Semi_Kwon%20GitHub%20🌱&animation=twinkling&fontSize=35&fontAlignY=50&fontAlign=76&height=250)
 
 
-## 🌱*Interests*
+## 🌱 *Interests*
 <h3><div align=center>🔥INTERESTS🔥</div></h3>
 
 
-## 💬*Most Used Languages*
+## 💬 *Most Used Languages*
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SemiKwon&layout=compact)](https://github.com/delay-100/github-readme-stats)
 
 <!--
