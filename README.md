@@ -5,7 +5,7 @@
 ![Static Badge](https://img.shields.io/badge/AI-%23FF0000)
 ![Static Badge](https://img.shields.io/badge/Deep_Learning-%23FFA500)
 
-![Static Badge](https://img.shields.io/badge/NLP-%#DAA520)
+![Static Badge](https://img.shields.io/badge/NLP-%#006400)
 
 
 ## 💬 *Skills*
