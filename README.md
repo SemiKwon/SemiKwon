@@ -3,7 +3,7 @@
 
 <h3><div align=center>🔥 INTERESTS 🔥</div></h3>
 <div align=center>
-  - AI, Deep Learning
+  <img src="https://img.shields.io/badge/AI-#FF0000?&logoColor=white">
 </div>
 
 # Most Used Languages
