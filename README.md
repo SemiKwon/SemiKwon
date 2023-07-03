@@ -7,8 +7,7 @@
 
 ![Static Badge](https://img.shields.io/badge/NLP-%23006400)
 ![Static Badge](https://img.shields.io/badge/Computer_Vison-%230000FF)
-
-
+![Static Badge](https://img.shields.io/badge/Multi_Modal-%234B0082)
 
 ## 💬 *Skills*
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SemiKwon&layout=compact)](https://github.com/delay-100/github-readme-stats)
