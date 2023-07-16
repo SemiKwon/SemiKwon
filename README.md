@@ -20,6 +20,8 @@
 * 2021 성신여자대학교 소프트웨어 경진대회 입상 - 'Sungshin 3F' 추천 시스템 앱 개발
 * 2021 오픈소스 코디네이터 과정 교육 이수 (WISET&KOSSA)
 
+![Semi_Kwons's GitHub stats](https://github-readme-stats.vercel.app/api?username=SemiKwon&show_icons=true&theme=dark)
+
 <!--
 **SemiKwon/SemiKwon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
