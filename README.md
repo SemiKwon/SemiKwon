@@ -16,6 +16,10 @@
 * 2021 **'개발자의 숲' 웹사이트**
 * 2021 **'Sungshin 3F' 추천 시스템 앱** - 성신여자대학교 소프트웨어 경진대회 입상
 
+## 💬 *Skills*
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SemiKwon&layout=compact&langs_count=6&hide_progress=false&cache_seconds=3600)](https://github.com/anuraghazra/github-readme-stats)
+
+
 
 <!--
 **SemiKwon/SemiKwon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
