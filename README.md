@@ -13,7 +13,7 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SemiKwon&layout=compact)](https://github.com/delay-100/github-readme-stats)
 
 ## 📫 *Projects*
-* 2025 **Temporal Contextual Fine-tuning of Multimodal Large Language Models using Dynamic Adaptive Video Representation Compression for Highlight Moment Detection**
+* 2025 _**Temporal Contextual Fine-tuning of Multimodal Large Language Models using Dynamic Adaptive Video Representation Compression for Highlight Moment Detection**_
 * 2022 **갈등 맥락 인지 TextCNN 모델**
 * 2021 **R을 통한 텍스트 데이터 분석 : 의미망 네트워크 구축**
 * 2021 **'개발자의 숲' 웹사이트**
