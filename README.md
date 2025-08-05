@@ -14,7 +14,7 @@
 * 2022 **갈등 맥락 인지 TextCNN**
 * 2021 **R을 통한 텍스트 데이터 분석 : 의미망 네트워크 구축**
 * 2021 **'개발자의 숲' 웹사이트**
-* 2021 **'Sungshin 3F' 추천 시스템 앱** (성신여자대학교 소프트웨어 경진대회 입상)
+* 2021 **'Sungshin 3F' 추천 시스템 앱** 
 
 ## 💬 *Skills*
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SemiKwon&layout=compact&langs_count=6&hide_progress=false&cache_seconds=3600)](https://github.com/anuraghazra/github-readme-stats)
